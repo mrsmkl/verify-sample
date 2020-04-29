@@ -1,0 +1,11 @@
+{
+    "name": "dofvnoffnodvi",
+    "dependencies": {
+        "@celo/celocli": "git+https://github.com/mrsmkl/celo-monorepo#celo-celocli-v0.0.48-sami2-gitpkg",
+    "truffle": "5.1.18",
+    "truffle-artifactor": "^4.0.30",
+    "truffle-plugin-blockscout-verify": "git+https://github.com/celo-org/truffle-plugin-blockscout-verify#91627b3",
+    "truffle-resolver": "^5.0.16",
+    "truffle-security": "^1.7.1"
+    }
+}
